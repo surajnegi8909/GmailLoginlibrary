@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GmailLoginlibrary"
 include ':app'
+include ':gmaillogin'
